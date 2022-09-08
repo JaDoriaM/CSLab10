@@ -28,6 +28,6 @@ int main(void) {
 
    scanf ("%s", anounstring);
 
-   printf("%s went to %s to buy %i different types of %s",mynamestring, aplacestring, intVar, anounstring);
+   printf("%s went to %s to buy %i different types of %s.\n",mynamestring, aplacestring, intVar, anounstring);
    return 0;
 }
