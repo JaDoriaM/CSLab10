@@ -1,0 +1,21 @@
+Congratulations!  If you are reading this document, you have 
+proven that you are able to clone a repository from GitHub Classroom!
+
+From now on, we will be using GHC for PEXs (NOT FOR LABS).  You will use the platform
+to grab the PEX template files, and you will use the add, commit, and push
+commands to periodically upload your code!
+
+Instructions for Committing and Pushing your code to GitHub Classroom:
+
+1.  Open a command prompt, and navigate to the folder containing this files
+
+2.  Type:  git add *
+    Explanation:  This command tells git what files you want to add/remove from your repository.  The * basically means "add everything"
+
+3.  Type:  git commit -m "A message goes here.  Please do write this message literally--come up with something original.  Are you still writing this?  Stop!"
+    Explanation:  This command creates a checkpoint for your code.
+
+4.  Type:  git push
+    Explanation:  This command uploads your code to GitHub Classroom to be archived.  
+
+You can repeat these steps multiple times.  Get into the habit of saving your code frequently, as you don't want to lose anything!
